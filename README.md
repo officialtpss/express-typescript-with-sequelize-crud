@@ -1,5 +1,5 @@
 # express-typescript-with-sequelize-crud
-Swagger, Database migration, middleware, jwt authentication, schema validation, CRUD opertions
+Swagger, Database Migration, Middleware, JWT authentication, Schema Validation, CRUD Opertions
 
 
 ## Running the app
